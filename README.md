@@ -50,4 +50,4 @@ After installing the dependencies, you can start experimenting with Axios in you
 To run an example file, use the following command:
 
 ```bash
-node examples/index.js
+node index.js
